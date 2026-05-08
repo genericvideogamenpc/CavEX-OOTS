@@ -1,8 +1,14 @@
-# CavEX
+# CavEX OOTS
 
-*Cave Explorer* is a Wii homebrew game with the goal to recreate most of the core survival aspects up until Beta 1.7.3. Any features beyond *will not* be added.
+*Cave Explorer* is a Wii homebrew game with the goal to recreate most of the core survival aspects up until Beta 1.7.3.
+This is a modification of Cave Explorer that forgoes accuracy to just add things for the sake of learning C.
 
----
+While there are no direct goals, I do want to add some features in the future that are to some degree, accurate, like the console crafting menu. So for that reason, this is a list of added features, all of which may not be accurate or original.
+
+**Added Features**
+* ... None, yet. Wait for the first commit!
+
+## Original Read Me
 
 **Features**
 * great performance on Wii (about 60fps)
